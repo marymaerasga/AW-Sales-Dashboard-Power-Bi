@@ -12,6 +12,7 @@ Tools Used: Power BI
 The project is based on a case study provided during the training. The case study involved developed end-to-end data analytics solution Sales Report. With the given 7 datasets in CSV format named: *Customer*, *Product*, *Reseller*, *Sales Territory*, *Sales Data*, *Sales Order Date*, and *Date* table. Wherein we are expected to Prepare the data(extract,clean and transform), Model the data, Analyze and Vizualize and Provide data-driven.
 
 ## Workflow
+
 **Data Preparation**
 
 Data Sources: 7 datasets in CSV format named: Customer, Product, Reseller, Sales Territory, Sales Data, Sales Order Date, and Date.
