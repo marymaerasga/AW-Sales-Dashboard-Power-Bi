@@ -21,6 +21,7 @@ Original Dataset source: https://github.com/microsoft/powerbi-desktop-samples/bl
 Power Query: Used Power Query for renaming fields to standardize and simplify data management.
 
 **Data Modeling**
+
 ![Data Model](https://github.com/user-attachments/assets/5123f9dc-8d23-4237-9e47-ebec97159dc4)
 
 Connected dimension tables to fact tables to establish relationships, enabling effective data analysis and reporting.
