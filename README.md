@@ -12,19 +12,19 @@ Tools Used: Power BI
 The project is based on a case study provided during the training. The case study involved developed end-to-end data analytics solution Sales Report. With the given 7 datasets in CSV format named: *Customer*, *Product*, *Reseller*, *Sales Territory*, *Sales Data*, *Sales Order Date*, and *Date* table. Wherein we are expected to Prepare the data(extract,clean and transform), Model the data, Analyze and Vizualize and Provide data-driven.
 
 ## Workflow
-### Data Preparation
+**Data Preparation**
 
 Data Sources: 7 datasets in CSV format named: Customer, Product, Reseller, Sales Territory, Sales Data, Sales Order Date, and Date.
 Original Dataset source: https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx
 
 Power Query: Used Power Query for renaming fields to standardize and simplify data management.
 
-### Data Modeling
+**Data Modeling**
 ![Data Model](https://github.com/user-attachments/assets/5123f9dc-8d23-4237-9e47-ebec97159dc4)
 
 Connected dimension tables to fact tables to establish relationships, enabling effective data analysis and reporting.
 
-### Data Analysis
+**Data Analysis**
 
 Analytical Techniques: Applied various analytical techniques to extract insights and trends from the data.
 
@@ -35,7 +35,7 @@ Average Selling Price
 Profit
 Profit Margin
 
-### Data Visualizations
+**Data Visualizations**
 
 Types of Visualizations:
 Column Bar Chart: To display revenue and other metrics across different years.
