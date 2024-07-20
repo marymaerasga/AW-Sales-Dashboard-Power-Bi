@@ -1,7 +1,7 @@
 # Business Intelligence with Power BI - End-to-End Solution Training
 
 ## Overview
-This repository contains the final project for the "Business Intelligence with Power BI End-to-End Solution Training," conducted by DICT Region IVA - Calabarzon in collaboration with DSA. The training provided comprehensive coverage of Business Intelligence (BI) concepts and tools, culminating in the development of a Power BI project to demonstrate the application of the skills learned.
+This repository contains the final output for the "Business Intelligence with Power BI End-to-End Solution Training," conducted by DICT Region IVA - Calabarzon in collaboration with DSA. The training provided comprehensive coverage of Business Intelligence (BI) concepts and tools, culminating in the development of a Power BI project to demonstrate the application of the skills learned.
 
 ## Project Highlights
 Objective: Build a complete BI solution using Power BI, showcasing end-to-end capabilities from data collection to visualization.
@@ -41,11 +41,11 @@ Profit Margin
 
 Types of Visualizations:
 Column Bar Chart: To display revenue and other metrics across different years.
-Map: To visualize geographic data and regional performance.
-Matrix Table: For detailed, multi-dimensional data analysis.
-Table: To present raw data or summarized information.
+Map: To visualize geographic data units sold per country.
+Matrix Table: For detailed, multi-dimensional data analysis category and business type with breakdown of revenue and totall cost.
+Table: To present overall data or summarized by country.
 
-Interactive Elements: Used filters for selecting and analyzing data by year, enhancing the interactivity of the dashboard.
+Interactive Elements: Used filter for selecting and analyzing data by year, enhancing the interactivity of the dashboard.
 
 ## Dashboard
 
