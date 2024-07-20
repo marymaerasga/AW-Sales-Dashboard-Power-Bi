@@ -49,24 +49,6 @@ Interactive Elements: Used filters for selecting and analyzing data by year, enh
 
 ![AW Sales Report Final](https://github.com/user-attachments/assets/1f49a91a-66d6-4fb3-9f4e-e263c588a047)
 
-### Getting Started
-To explore the project, follow these steps:
-
-1. Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/your-repository.git
-
-2. Open the Project
-Open the .pbix file using Power BI Desktop.
-
-4. Explore the Dashboard
-Navigate through the interactive elements and visualizations to analyze the data.
-
-### Installation
-Ensure you have Power BI Desktop installed on your machine. You can download it from Microsoft Power BI.
-
-# Acknowledgements
+## Acknowledgements
 Thanks to DICT Region IVA - Calabarzon and DSA for providing the training and resources.
 Special thanks to the instructor especialy Sir Abraham Avila Jr founder of Datasense Analytics.
