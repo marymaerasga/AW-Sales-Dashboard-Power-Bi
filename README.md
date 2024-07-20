@@ -47,7 +47,7 @@ Table: To present raw data or summarized information.
 
 Interactive Elements: Used filters for selecting and analyzing data by year, enhancing the interactivity of the dashboard.
 
-### Dashboard
+## Dashboard
 
 ![AW Sales Report Final](https://github.com/user-attachments/assets/1f49a91a-66d6-4fb3-9f4e-e263c588a047)
 
