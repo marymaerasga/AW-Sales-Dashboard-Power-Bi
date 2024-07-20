@@ -53,4 +53,5 @@ Interactive Elements: Used filters for selecting and analyzing data by year, enh
 
 ## Acknowledgements
 Thanks to DICT Region IVA - Calabarzon and DSA for providing the training and resources.
+
 Special thanks to the instructor especialy Sir Abraham Avila Jr founder of Datasense Analytics.
